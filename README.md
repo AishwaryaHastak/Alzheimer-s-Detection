@@ -31,7 +31,7 @@ Several models developed on this dataset leveraged pre-trained architectures suc
 
 ## References
 
-[1] https://www.kaggle.com/code/mihirbhatkar/alzheimer-s-detection-using-dl
+[1] [Alzheimer's Detection using DL](https://www.kaggle.com/code/mihirbhatkar/alzheimer-s-detection-using-dl)
 
-[2] https://www.kaggle.com/code/natsu18/class-prediction-pytorch
+[2] [Class Prediction with PyTorch](https://www.kaggle.com/code/natsu18/class-prediction-pytorch)
 
