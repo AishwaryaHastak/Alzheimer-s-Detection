@@ -15,7 +15,7 @@ The dataset contains images for 4 classes:
    
 The class distribution is as follows:
 
-<img src="https://github.com/AishwaryaHastak/Alzheimer-s-Detection/assets/31357026/af0b5a3a-e74b-472e-bcfb-f707c45a7eb3" width="500">
+<img src="https://github.com/AishwaryaHastak/Alzheimer-s-Detection/assets/31357026/d8d2acd0-2164-4d52-8f7d-981b1aca6ea1" width="500">
 
 
 ### Techniques to handle class imbalance
