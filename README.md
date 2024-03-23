@@ -3,7 +3,7 @@
 ## Overview
 Training a Deep Neural Network to classify images of brain MRI scans to identify Dementia and Non-Dementia Patients.
 
-The dataset is sourced from Kaggle and can be found at: Alzheimer's Dataset
+The dataset is sourced from Kaggle and can be found at: [Alzheimer's Dataset](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 
 ## Dealing with imbalanced classes
 
