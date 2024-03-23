@@ -21,7 +21,7 @@ The class distribution is as follows:
 ### Techniques to handle class imbalance
 The dataset exhibits significant class imbalance, a common occurrence in medical imaging data, where instances of individuals without a certain condition often outnumber those with the condition. To address this issue, I employed and compared two data augmentation techniques to boost the number of instances in underrepresented classes. First, I utilized SMOTE (Synthetic Minority Over-sampling Technique), which equalized the instance counts across all classes. Second, I manually augmented the data for each class, ensuring that while each label had sufficient instances for training, the overall distribution of data remained consistent. This approach maintained the relative differences in instance counts between labels, preserving the general distribution of the dataset. The resulting distributions are illustrated below:
 
-<img src="https://github.com/AishwaryaHastak/Alzheimer-s-Detection/assets/31357026/123cec7a-87b0-450a-bbe4-eaac9e43d3fb" width="500">
+<img src="https://github.com/AishwaryaHastak/Alzheimer-s-Detection/assets/31357026/b4156ce0-3089-4293-8d8c-a9865f182f43" width="500">
 
 
 
