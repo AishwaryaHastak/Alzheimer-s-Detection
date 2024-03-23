@@ -8,13 +8,14 @@ The dataset is sourced from Kaggle and can be found at: [Alzheimer's Dataset](ht
 ## Dealing with imbalanced classes
 
 The dataset contains images for 4 classes:
-
 1. Mild Demented
 2. Moderate Demented
 3. Non Demented
 4. Very Mild Demented
+   
 The class distribution is as follows:
-![image](https://github.com/AishwaryaHastak/Alzheimer-s-Detection/assets/31357026/af0b5a3a-e74b-472e-bcfb-f707c45a7eb3)
+<img src="https://github.com/AishwaryaHastak/Alzheimer-s-Detection/assets/31357026/af0b5a3a-e74b-472e-bcfb-f707c45a7eb3" width="400">
+
 
 ### Techniques to handle class imbalance
 The dataset exhibits significant class imbalance, a common occurrence in medical imaging data, where instances of individuals without a certain condition often outnumber those with the condition. To address this issue, I employed and compared two data augmentation techniques to boost the number of instances in underrepresented classes. First, I utilized SMOTE (Synthetic Minority Over-sampling Technique), which equalized the instance counts across all classes. Second, I manually augmented the data for each class, ensuring that while each label had sufficient instances for training, the overall distribution of data remained consistent. This approach maintained the relative differences in instance counts between labels, preserving the general distribution of the dataset. The resulting distributions are illustrated below:
