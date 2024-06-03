@@ -1,4 +1,4 @@
-# Alzheimer-s-Detection
+# NeuroDetect: MRI‑Based Alzheimer’s Disease Detection using DNN
 
 ## Overview
 Training a Deep Neural Network to classify images of brain MRI scans to identify Dementia and Non-Dementia Patients.
