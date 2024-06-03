@@ -29,7 +29,7 @@ The dataset exhibits significant class imbalance, a common occurrence in medical
 
 ### So what does it mean? 
 The model tends to perform better when the class distribution closely mirrors real-life scenarios. Instead of equalizing instance counts across all classes, the goal was to ensure each class had sufficient training examples while retaining the overall distribution. This approach offers a better representation of real-world conditions, enhancing the model's performance.
-Model
+
 
 ## Model 
 
