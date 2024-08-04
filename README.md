@@ -33,7 +33,7 @@ The dataset exhibits significant class imbalance. To address this, I employed an
 
 1. **SMOTE** (Synthetic Minority Over-sampling Technique): Equalized the instance counts across all classes.
 
-2.** Manual Augmentation**: Boosted the number of instances in underrepresented classes while retaining the overall class distribution. This approach maintained the relative differences in instance counts, offering a better representation of real-world conditions
+2. **Manual Augmentation**: Boosted the number of instances in underrepresented classes while retaining the overall class distribution. This approach maintained the relative differences in instance counts, offering a better representation of real-world conditions
 
 **Result**: The model performs better when the class distribution closely mirrors real-life scenarios, providing a more accurate reflection of actual conditions.
 
