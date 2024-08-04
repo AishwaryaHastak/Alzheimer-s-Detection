@@ -39,7 +39,7 @@ The dataset exhibits significant class imbalance. To address this, I employed an
 
 <img src="https://github.com/AishwaryaHastak/Alzheimer-s-Detection/assets/31357026/b4156ce0-3089-4293-8d8c-a9865f182f43" width="500">
 
-##🛠️ Model 
+## 🛠️Model 
 
 Several models developed on this dataset leveraged pre-trained architectures such as RESNET [1], VGG, and others, achieving remarkable accuracies nearing 94%. Conversely, a different approach employed a more straightforward Convolutional Neural Network model, yielding a validation set accuracy of approximately 80% [2]. This project endeavors to craft a simplified DNN model, boasting fewer parameters than expansive architectures like RESNET, all while upholding high accuracy standards.
 
