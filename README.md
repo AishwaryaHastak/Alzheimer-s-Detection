@@ -3,6 +3,8 @@
 ## 🧠 Overview
 Training a Deep Neural Network (DNN) to classify brain MRI scans for detecting Dementia versus Non-Dementia patients. This project aims to use a simpler architecture with fewer parameters while still achieving good accuracy. We focus on a data-centric approach, emphasizing data augmentation and fine-tuning hyperparameters rather than complex model architectures.
 
+![image](https://github.com/user-attachments/assets/79649a4c-ec9b-4614-9f82-b69b31eaf6a9)
+
 The dataset is sourced from Kaggle and can be found at [Alzheimer's Dataset](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
 
 ## 🎯 Objective
